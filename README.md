@@ -6,7 +6,7 @@ Os dados foram obtidos da pagina wiki.openstreetmap.org:
 
 [https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Lista_Completa_de_Cidades](https://wiki.openstreetmap.org/wiki/WikiProject_Brazil/Lista_Completa_de_Cidades)
 
-## Modelo
+## Exemplo
 ```
 [
 	{
